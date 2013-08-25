@@ -1,9 +1,4 @@
 config airplay
-	option bname 'Living Room'
-	option initbuf 320
-	option daemonize true
+	option bname 'Shairport On OpenWRT'
+	option initbuf 220
 #	option port 5002
-#	option password '123456'
-	option pcm 'default'
-	option ctl 'default'
-	option volume 'Speaker'
